@@ -1,0 +1,6 @@
+numpy
+matplotlib
+networkx
+scipy
+networkx
+matplotlib==3.8.0
